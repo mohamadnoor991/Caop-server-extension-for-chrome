@@ -34,7 +34,7 @@ In this repository, you will find the extension folder with a tutorial about how
 
 
 ### Test the Extension
-- To check if your extension works put "coap://coap.me:5683" instead of server-IP in the open pop-window of the extension, Then press the Discover button you will find a list of APIs you can try it.
+- To check if your extension works put "coap://coap.me:5683" instead of server-IP in the open pop-window of the extension, Then press the Discover button you will find a list of endpoint url you can try it.
 ![](./Pic/c8.PNG)
 
 #### The main GitHub link of the folder is [Github-folder](https://github.com/mkovatsc/Copper4Cr) and another link I used to do my experiment is [help-link](http://wiki.dragino.com/index.php?title=Set_up_CoAP_Server).
